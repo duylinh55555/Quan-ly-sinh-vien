@@ -2,7 +2,5 @@ Phần mềm cùi bắp để quản lý sinh viên
 
 Cần cài đặt thêm thư viện SFML để chạy
 
-(
-  Lỗi chưa fix:  phần FindOption 
+Lỗi chưa fix:  phần FindOption 
   Thay đổi đối tượng sinh viên sẽ gây mất danh sách sinh viên
-)
